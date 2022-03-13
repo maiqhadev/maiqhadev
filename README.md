@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mai @maiqhadev
-- 👀 I’m interested in creativity, aethetics, organization
-- 🌱 I’m currently learning software engineering
+- 👀 I’m interested in business dashboards, UI/UX design, and blockchain security
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on building digital platforms
 - 📫 How to reach me: maiqhadev@gmail.com
 
